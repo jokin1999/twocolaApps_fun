@@ -2,7 +2,7 @@
 
 ## 小人举牌图片生成
 
-- 链接： [hus.static-twocola.tk](http://hus.static-twocola.tk)
+- 链接： [**hus.static-twocola.tk**](http://hus.static-twocola.tk)
 - 多线路： `支持`
   - [**0.hus.static-twocola.tk**](http://0.hus.static-twocola.tk)
   - [1.hus.static-twocola.tk](http://1.hus.static-twocola.tk)
