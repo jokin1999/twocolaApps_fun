@@ -2,6 +2,8 @@
 
 ## 小人举牌图片生成
 
+![欢迎使用小人举牌](./imgs/hus-welcome.png)
+
 - 链接： [**hus.static-twocola.tk**](http://hus.static-twocola.tk)
 - 集群： `多线路`
   - [**0.hus.static-twocola.tk**](http://0.hus.static-twocola.tk)
