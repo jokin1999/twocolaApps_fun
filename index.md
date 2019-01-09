@@ -15,6 +15,27 @@
 - 性质： `免费开源`
 - 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
 - 维护： `仅服务`
+- 备注：由于`全资源`限制，无法生成超大型的图片，站点会出现未响应的情况属于正常情况。
+
+---
+
+## 赛龙舟图片生成
+
+![欢迎使用小人举牌](./imgs/dragon-welcome.png)
+
+- 链接： [**slz.static-twocola.tk**](http://slz.static-twocola.tk)
+- 集群： `多线路`
+  - [**0.slz.static-twocola.tk**](http://0.slz.static-twocola.tk)
+  - [1.slz.static-twocola.tk](http://1.slz.static-twocola.tk)
+  - [2.slz.static-twocola.tk](http://2.slz.static-twocola.tk)
+  - [3.slz.static-twocola.tk](http://3.slz.static-twocola.tk)
+  - [4.slz.static-twocola.tk](http://4.slz.static-twocola.tk)
+- 限制： `全资源`
+- 性质： `免费开源`
+- 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
+- 维护： `仅服务`
+- 备注：由于`全资源`限制，无法生成超大型的图片，站点会出现未响应的情况属于正常情况；此项目需要自行手动换行。
+
 
 ---
 
