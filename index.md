@@ -4,13 +4,13 @@
 
 ![欢迎使用小人举牌](./imgs/hus-welcome.png)
 
-- 链接： [**hus.static-twocola.tk**](http://hus.static-twocola.tk)
+- 链接： [**hus.tcapps.twocola.com**](http://hus.tcapps.twocola.com)
 - 集群： `多线路`
-  - [**0.hus.static-twocola.tk**](http://0.hus.static-twocola.tk)
-  - [1.hus.static-twocola.tk](http://1.hus.static-twocola.tk)
-  - [2.hus.static-twocola.tk](http://2.hus.static-twocola.tk)
-  - [3.hus.static-twocola.tk](http://3.hus.static-twocola.tk)
-  - [4.hus.static-twocola.tk](http://4.hus.static-twocola.tk)
+  - [**0.hus.tcapps.twocola.com**](http://0.hus.tcapps.twocola.com)
+  - [1.hus.tcapps.twocola.com](http://1.hus.tcapps.twocola.com)
+  - [2.hus.tcapps.twocola.com](http://2.hus.tcapps.twocola.com)
+  - [3.hus.tcapps.twocola.com](http://3.hus.tcapps.twocola.com)
+  - [4.hus.tcapps.twocola.com](http://4.hus.tcapps.twocola.com)
 - 限制： `全资源`
 - 性质： `免费开源`
 - 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
@@ -24,13 +24,13 @@
 
 ![欢迎使用小人举牌](./imgs/dragon-welcome.png)
 
-- 链接： [**slz.static-twocola.tk**](http://slz.static-twocola.tk)
+- 链接： [**slz.tcapps.twocola.com**](http://slz.tcapps.twocola.com)
 - 集群： `多线路`
-  - [**0.slz.static-twocola.tk**](http://0.slz.static-twocola.tk)
-  - [1.slz.static-twocola.tk](http://1.slz.static-twocola.tk)
-  - [2.slz.static-twocola.tk](http://2.slz.static-twocola.tk)
-  - [3.slz.static-twocola.tk](http://3.slz.static-twocola.tk)
-  - [4.slz.static-twocola.tk](http://4.slz.static-twocola.tk)
+  - [**0.slz.tcapps.twocola.com**](http://0.slz.tcapps.twocola.com)
+  - [1.slz.tcapps.twocola.com](http://1.slz.tcapps.twocola.com)
+  - [2.slz.tcapps.twocola.com](http://2.slz.tcapps.twocola.com)
+  - [3.slz.tcapps.twocola.com](http://3.slz.tcapps.twocola.com)
+  - [4.slz.tcapps.twocola.com](http://4.slz.tcapps.twocola.com)
 - 限制： `全资源`
 - 性质： `免费开源`
 - 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
