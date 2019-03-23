@@ -4,8 +4,9 @@
 
 ![欢迎使用小人举牌](./imgs/hus-welcome.png)
 
-- 链接： [**hus.tcapps.twocola.com**](http://hus.tcapps.twocola.com)
+- 链接：[**主线路**](http://jump.srv.tcapps.twocola.com?p=HoldUpSign)
 - 集群： `多线路`
+  - [**hus.tcapps.twocola.com**](http://hus.tcapps.twocola.com)
   - [**0.hus.tcapps.twocola.com**](http://0.hus.tcapps.twocola.com)
   - [1.hus.tcapps.twocola.com](http://1.hus.tcapps.twocola.com)
   - [2.hus.tcapps.twocola.com](http://2.hus.tcapps.twocola.com)
@@ -24,8 +25,9 @@
 
 ![欢迎使用小人举牌](./imgs/dragon-welcome.png)
 
-- 链接： [**slz.tcapps.twocola.com**](http://slz.tcapps.twocola.com)
+- 链接： [**主线路**](http://jump.srv.tcapps.twocola.com?p=Dragon)
 - 集群： `多线路`
+  - [**slz.tcapps.twocola.com**](http://slz.tcapps.twocola.com)
   - [**0.slz.tcapps.twocola.com**](http://0.slz.tcapps.twocola.com)
   - [1.slz.tcapps.twocola.com](http://1.slz.tcapps.twocola.com)
   - [2.slz.tcapps.twocola.com](http://2.slz.tcapps.twocola.com)
