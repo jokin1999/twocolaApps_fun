@@ -4,14 +4,14 @@
 
 ![欢迎使用小人举牌](./imgs/hus-welcome.png)
 
-- 链接：[**主线路**](http://jump.srv.tcapps.twocola.com?p=HoldUpSign)
+- 链接：[**主线路**](//jump.srv.tcapps.twocola.com?p=HoldUpSign)
 - 集群： `多线路`
-  - [**hus.tcapps.twocola.com**](http://hus.tcapps.twocola.com)
-  - [**0.hus.tcapps.twocola.com**](http://0.hus.tcapps.twocola.com)
-  - [1.hus.tcapps.twocola.com](http://1.hus.tcapps.twocola.com)
-  - [2.hus.tcapps.twocola.com](http://2.hus.tcapps.twocola.com)
-  - [3.hus.tcapps.twocola.com](http://3.hus.tcapps.twocola.com)
-  - [4.hus.tcapps.twocola.com](http://4.hus.tcapps.twocola.com)
+  - [**hus.tcapps.twocola.com**](https://hus.tcapps.twocola.com)
+  - [**0.hus.tcapps.twocola.com**](https://0.hus.tcapps.twocola.com)
+  - [1.hus.tcapps.twocola.com](https://1.hus.tcapps.twocola.com)
+  - [2.hus.tcapps.twocola.com](https://2.hus.tcapps.twocola.com)
+  - [3.hus.tcapps.twocola.com](https://3.hus.tcapps.twocola.com)
+  - [4.hus.tcapps.twocola.com](https://4.hus.tcapps.twocola.com)
 - 限制： `全资源`
 - 性质： `免费开源`
 - 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
@@ -25,14 +25,14 @@
 
 ![欢迎使用小人举牌](./imgs/dragon-welcome.png)
 
-- 链接： [**主线路**](http://jump.srv.tcapps.twocola.com?p=Dragon)
+- 链接： [**主线路**](//jump.srv.tcapps.twocola.com?p=Dragon)
 - 集群： `多线路`
-  - [**slz.tcapps.twocola.com**](http://slz.tcapps.twocola.com)
-  - [**0.slz.tcapps.twocola.com**](http://0.slz.tcapps.twocola.com)
-  - [1.slz.tcapps.twocola.com](http://1.slz.tcapps.twocola.com)
-  - [2.slz.tcapps.twocola.com](http://2.slz.tcapps.twocola.com)
-  - [3.slz.tcapps.twocola.com](http://3.slz.tcapps.twocola.com)
-  - [4.slz.tcapps.twocola.com](http://4.slz.tcapps.twocola.com)
+  - [**slz.tcapps.twocola.com**](https://slz.tcapps.twocola.com)
+  - [**0.slz.tcapps.twocola.com**](https://0.slz.tcapps.twocola.com)
+  - [1.slz.tcapps.twocola.com](https://1.slz.tcapps.twocola.com)
+  - [2.slz.tcapps.twocola.com](https://2.slz.tcapps.twocola.com)
+  - [3.slz.tcapps.twocola.com](https://3.slz.tcapps.twocola.com)
+  - [4.slz.tcapps.twocola.com](https://4.slz.tcapps.twocola.com)
 - 限制： `全资源`
 - 性质： `免费开源`
 - 源码： [GitHub](https://github.com/jokin1999/HoldUpSign)
