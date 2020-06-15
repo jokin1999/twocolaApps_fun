@@ -4,8 +4,7 @@
 
 ![欢迎使用小人举牌](./imgs/hus-welcome.png)
 
-- 链接：[**主线路**](//jump.srv.tcapps.twocola.com?p=HoldUpSign)
-- 集群： `多线路`
+- 链接：
   - [1.hus.tcapps.twocola.com](//1.hus.tcapps.twocola.com)
   - [2.hus.tcapps.twocola.com](//2.hus.tcapps.twocola.com)
   - [3.hus.tcapps.twocola.com](//3.hus.tcapps.twocola.com)
@@ -24,8 +23,7 @@
 
 ![欢迎使用小人举牌](./imgs/dragon-welcome.png)
 
-- 链接： [**主线路**](//jump.srv.tcapps.twocola.com?p=Dragon)
-- 集群： `多线路`
+- 链接：
   - [1.slz.tcapps.twocola.com](//1.slz.tcapps.twocola.com)
   - [2.slz.tcapps.twocola.com](//2.slz.tcapps.twocola.com)
   - [3.slz.tcapps.twocola.com](//3.slz.tcapps.twocola.com)
@@ -43,7 +41,5 @@
 解释一览
 
 **粗体** ： 均衡服务，使用此类地址可以自动转到最合适的服务器，自动避开不可用服务。
-
-`多线路`： 使用多个服务链路（非多个运营商）。
 
 `全资源限制`： CPU、MEM、BANDWIDTH均被限制，当资源使尽后，无法正常提供服务。
